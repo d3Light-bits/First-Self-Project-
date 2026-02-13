@@ -41,6 +41,7 @@ body {
 }
 
 .letter-window {
+    margin-bottom: 4vw;
     width: 110vw;
     height: 50vw;
     max-width: 800px;
