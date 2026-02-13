@@ -4,7 +4,7 @@ body {
     display: Flex;
     justify-content: center;
     align-items: center;
-    background-image: url("yoww_bg.png");
+    background-image: url("heart-bg.jpg");
     font-family: "Jersey", sans-serif;
 }
 
@@ -41,7 +41,6 @@ body {
 }
 
 .letter-window {
-    margin-top: 2vw;
     width: 110vw;
     height: 50vw;
     max-width: 800px;
